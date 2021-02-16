@@ -6,9 +6,14 @@ You can view the api in your browser or even better, import it in a program call
 
 Link: https://glitchcat.github.io/themis-api/
 
+## insomnia client
+If you happen to test some stuff in the insomnia rest client this is what you should know:
+
 `{{ _.base_url }}` is just a placeholder for `https://themis.housing.rug.nl`
 
 `{{ _.year_url }}` is a placeholder for the year it extracted from the "GET course" call, which is as of writing this equal to `/2020-2021`
+
+Both of these are configured in the insomnia enviroment, which should automatically get imported.
 
 # credits
 https://github.com/jozsefsallai/insomnia-documenter
