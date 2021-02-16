@@ -6,7 +6,7 @@ You can view the api in your browser or even better, import it in a program call
 
 Link: https://glitchcat.github.io/themis-api/
 
-`{{ _.base_url }}` is just a placeholder for `https://themis.housing.rug.nl/`
+`{{ _.base_url }}` is just a placeholder for `https://themis.housing.rug.nl`
 
 `{{ _.year_url }}` is a placeholder for the year it extracted from the "GET course" call, which is as of writing this equal to `/2020-2021`
 
